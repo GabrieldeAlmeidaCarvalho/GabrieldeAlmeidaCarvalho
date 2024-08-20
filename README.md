@@ -39,13 +39,16 @@ As a developer, I am constantly refining my skills and expanding my expertise.
 
 ## Latest Projects
 
+<a href="https://github.com/GabrieldeAlmeidaCarvalho/centro-estetico">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldealmeidacarvalho&repo=centro-estetico" />
+</a>
 <a href="https://github.com/GabrieldeAlmeidaCarvalho/Menu-Bits">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldealmeidacarvalho&repo=Menu-Bits" />
 </a>
+
 <a href="https://github.com/GabrieldeAlmeidaCarvalho/BicoServico">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldealmeidacarvalho&repo=BicoServico" />
 </a>
-
 <a href="https://github.com/GabrieldeAlmeidaCarvalho/Nutrix-Dietas-Web-DB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieldealmeidacarvalho&repo=Nutrix-Dietas-Web-DB" />
 </a>
